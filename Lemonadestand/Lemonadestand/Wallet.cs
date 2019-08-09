@@ -8,8 +8,8 @@ namespace Lemonadestand
 {
     class Wallet
     {
-        public double moneyInWallet = 30.0;
-        double costOfProducts;
+        public double moneyInWallet = 50.0;
+        public double costOfProducts;
 
 
     }

@@ -6,31 +6,10 @@ using System.Threading.Tasks;
 
 namespace Lemonadestand
 {
-    public class score
+    class Little_Kid
     {
-
-        // members variables 
-
-
-
-
-
-
-
-
-        //Constructor
-
-
-
-
-        //Member methods 
-
-
 
 
 
     }
-
-
-
 }

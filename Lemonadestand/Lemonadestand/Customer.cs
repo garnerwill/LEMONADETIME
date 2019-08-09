@@ -6,24 +6,22 @@ using System.Threading.Tasks;
 
 namespace Lemonadestand
 {
-    public class score
+    class Customer
     {
-
-        // members variables 
-
-
+        public Customer ()
+        {
 
 
 
+        }
 
 
-
-        //Constructor
+        
 
 
 
 
-        //Member methods 
+
 
 
 

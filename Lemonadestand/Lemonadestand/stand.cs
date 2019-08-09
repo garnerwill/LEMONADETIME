@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lemonadestand
 {
-    public class stand 
+    public class Stand 
     {
         // members variables 
 

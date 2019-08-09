@@ -13,18 +13,39 @@ namespace Lemonadestand
         public int forecastTemperature;
         public string forecastCondition;
         Random random;
-        public int[] TemperatureOfWeather = new int[] { 60, 70, 80, 90, 100 };
+        
 
-        List<string> Weatherconditions = new List<string> { "Sunny, Rainy, Foggy, Cold" };
+        List<string> Weatherconditions = new List<string> { "Sunny", "Rainy", "Foggy", "Cold" };
+
+        public Weather()
+        {
+
+        }
 
 
         //public Weather = new Weather;
-
-        public int RandomNumber(int min, int max)
+        public void SetWeather()
         {
-            Random random = new Random();
-            return random.Next(min, max);
-           
+            temperature = RandomNumber();
+            condition = RandomWeather();
+            Console.WriteLine(temperature);
+            Console.WriteLine(condition);
+        }
+        public int RandomNumber()
+        {
+            
+
+            Random rng = new Random();
+            //Console.WriteLine(temperature);
+            return rng.Next(60, 99);
+        }
+
+        public string RandomWeather()
+        {
+            Random rng = new Random();
+            return Weatherconditions[rng.Next(4)];
+            Console.WriteLine(Weatherconditions);
+            Console.ReadLine();
         }
 
     }

@@ -8,8 +8,32 @@ namespace Lemonadestand
 {
     class UserInput
     {
-        
-        
-    }    
-    
+        // members variables 
+
+
+
+
+
+
+
+
+        //Constructor
+
+
+
+
+        //Member methods 
+
+
+
+
+
+
+
+
+
+
+
+    }
+
 }       

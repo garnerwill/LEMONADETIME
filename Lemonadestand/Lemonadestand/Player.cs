@@ -8,32 +8,31 @@ namespace Lemonadestand
 {
     public class Player
     {
+        //Player player = new Player();
+        Inventory inventory = new Inventory();
 
-        // members variables 
+
+
+        // members variables  has a
         
-         
-    }   
-    {
-        
 
 
 
 
 
-    
+
+
+        //Constructor spawn
+
+      // int Inventory = (Player player);
+
+
+
+
+
+        //Member methods  can do
+
+
     }
-        
-
-
-
-        //Constructor
-
-
-
-
-        //Member methods 
-
-
-
     
 }
