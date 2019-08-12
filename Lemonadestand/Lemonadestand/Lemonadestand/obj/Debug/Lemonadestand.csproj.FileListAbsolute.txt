@@ -1,0 +1,7 @@
+C:\Users\gee6w\Desktop\Lemonade Stand\Lemonadestand\Lemonadestand\obj\Debug\Lemonadestand.csprojAssemblyReference.cache
+C:\Users\gee6w\Desktop\Lemonade Stand\Lemonadestand\Lemonadestand\obj\Debug\Lemonadestand.csproj.CoreCompileInputs.cache
+C:\Users\gee6w\Desktop\Lemonade Stand\Lemonadestand\Lemonadestand\bin\Debug\Lemonadestand.exe.config
+C:\Users\gee6w\Desktop\Lemonade Stand\Lemonadestand\Lemonadestand\bin\Debug\Lemonadestand.exe
+C:\Users\gee6w\Desktop\Lemonade Stand\Lemonadestand\Lemonadestand\bin\Debug\Lemonadestand.pdb
+C:\Users\gee6w\Desktop\Lemonade Stand\Lemonadestand\Lemonadestand\obj\Debug\Lemonadestand.exe
+C:\Users\gee6w\Desktop\Lemonade Stand\Lemonadestand\Lemonadestand\obj\Debug\Lemonadestand.pdb
